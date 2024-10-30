@@ -1,0 +1,310 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR MyBitcoin
+# This file is distributed under the same license as the cryptocurrency-coin-prices package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: cryptocurrency-coin-prices 1.0.1\n"
+"Report-Msgid-Bugs-To: support@s-sols.com\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Documentation
+msgctxt "admin.Common"
+msgid "PluginDocLink"
+msgstr ""
+
+# Order Premium Version
+msgctxt "admin.Common_SwitchTo"
+msgid "OrderInLockedFeatureBtn"
+msgstr ""
+
+# Other Features
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtTitle"
+msgstr ""
+
+# Look at %1$sthe preview of premium features%2$s in the extended plugin version.
+#. translators: 1,2 - link tags.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtInfo_%1$s%2$s"
+msgstr ""
+
+# Preview other features
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtBtn"
+msgstr ""
+
+# Preview
+msgctxt "admin.Common_SwitchTo"
+msgid "ExtSmallBtn"
+msgstr ""
+
+# By pressing "%1$s" button you are agreeing with the %2$sEnd-User License Agreement%3$s.
+#. translators: 1 - button name; 2,3 - link tags.
+#, php-format
+msgctxt "admin.Common_SwitchTo"
+msgid "LicAcceptInfo_%1$s%2$s%3$s"
+msgstr ""
+
+# The upgrade version will be downloaded and replace the existing one automatically.
+msgctxt "admin.Common_SwitchTo"
+msgid "UpgrInfo"
+msgstr ""
+
+# Refresh the page after upgrade
+msgctxt "admin.Common_SwitchTo"
+msgid "RefreshChk"
+msgstr ""
+
+# Upgrading...
+msgctxt "admin.Common_SwitchTo"
+msgid "UpgrProgressInfo"
+msgstr ""
+
+# Upgraded!
+msgctxt "admin.Common_SwitchTo"
+msgid "UpgrOkInfo"
+msgstr ""
+
+# Rate It Please
+msgctxt "admin.Common_RateIt"
+msgid "Title"
+msgstr ""
+
+# Rate it
+msgctxt "admin.Common_RateIt"
+msgid "RateSmallBtn"
+msgstr ""
+
+# Already rated
+msgctxt "admin.Common_RateIt"
+msgid "AlreadyRatedBtn"
+msgstr ""
+
+# If you like the plugin please could you give us a %1$s rating.%2$s%3$sThank you very much in advance. We do %4$sall of our best%5$s.
+#. translators: 1 - link; 2 - Info_P2; 3 - separator tags; 4,5 - link tags.
+#, php-format
+msgctxt "admin.Common_RateIt"
+msgid "Info_%1$s%2$s%3$s%4$s%5$s"
+msgstr ""
+
+# It really improves the plugin.
+msgctxt "admin.Common_RateIt"
+msgid "Info_P2"
+msgstr ""
+
+# %1$s: %2$s
+#, php-format
+msgctxt "admin.Common"
+msgid "PluginSubjectTitle_%1$s%2$s"
+msgstr ""
+
+# Crypto Coin Market Prices
+msgctxt "admin.Common"
+msgid "PluginTitle"
+msgstr ""
+
+# Crypto Coin Market Prices
+msgctxt "admin.Common"
+msgid "PluginTitleLong"
+msgstr ""
+
+# Crypto Coin Market Prices
+msgctxt "admin.Common"
+msgid "PluginTitleFull"
+msgstr ""
+
+# Easy to use option for setting up a bitcoin and altcoin exchange rate.
+msgctxt "admin.Common"
+msgid "PluginDescription"
+msgstr ""
+
+# MyBitcoin Cryptocurrency Coin Market Prices widget is a lightweight, easy to use option for setting up a bitcoin and altcoin exchange rate option with customizable coin number amounts, prices in USD, Market Caps, 24 hour trading volumes and a weekly chart graph to show all the major stats per cryptocurrency with full shortcode support for any area or thin space within the website.
+msgctxt "admin.Common"
+msgid "PluginDescriptionFull"
+msgstr ""
+
+# About
+msgctxt "admin.Common_About"
+msgid "Title"
+msgstr ""
+
+# %1$sVersion:%2$s %3$s
+#. translators: 1,2 - strong tags; 3 - version.
+#, php-format
+msgctxt "admin.Common_About"
+msgid "Version_%1$s%2$s%3$s"
+msgstr ""
+
+# Support
+msgctxt "admin.Common_About"
+msgid "LinkSupport"
+msgstr ""
+
+# Third-Party Software
+msgctxt "admin.Common_About"
+msgid "Link3rdPartySoft"
+msgstr ""
+
+# About Vendor
+msgctxt "admin.Common_AboutVendor"
+msgid "Title"
+msgstr ""
+
+# We develop solutions for WordPress and other platforms to streamline your business and life.
+msgctxt "admin.Common_AboutVendor"
+msgid "Info1"
+msgstr ""
+
+# Please, do not hesitate to %1$scontact us%2$s if you have any %3$squestion%4$s or want %5$sadditional features%6$s.
+#. translators: 1,2 - link tags; 3,4 - strong tags; 5,6 - strong tags.
+#, php-format
+msgctxt "admin.Common_AboutVendor"
+msgid "Info2_%1$s%2$s%3$s%4$s%5$s%6$s"
+msgstr ""
+
+# More plugins...
+msgctxt "admin.Common_AboutVendor"
+msgid "MorePluginsBtn"
+msgstr ""
+
+# More info...
+msgctxt "admin.Common_AboutVendor"
+msgid "MoreInfoBtn"
+msgstr ""
+
+# Featured Plugins
+msgctxt "admin.Common_AdvertProducts"
+msgid "Title"
+msgstr ""
+
+# This promotion %1$sisn't shown%2$s in the %3$spremium version%4$s.
+#. translators: 1,2 - strong tags; 3,4 - strong tags.
+#, php-format
+msgctxt "admin.Common_AdvertProducts"
+msgid "LockedFeatureInsideInfo_%1$s%2$s%3$s%4$s"
+msgstr ""
+
+# All plugins can be discovered at the %1$smain site%2$s.
+#. translators: 1,2 - link tags.
+#, php-format
+msgctxt "admin.Common_AdvertProducts"
+msgid "TotalInfo_%1$s%2$s"
+msgstr ""
+
+# More info...
+msgctxt "admin.Common_AdvertProducts"
+msgid "ItemMoreInfoBtn"
+msgstr ""
+
+# Settings were saved successfully.
+msgctxt "admin.Common_Settings"
+msgid "SaveSuccInfo"
+msgstr ""
+
+# Settings were partially saved: %1$s
+#, php-format
+msgctxt "admin.Common_Settings"
+msgid "SaveWarnInfo_%1$s"
+msgstr ""
+
+# Settings were not saved: %1$s
+#, php-format
+msgctxt "admin.Common_Settings"
+msgid "SaveErrInfo_%1$s"
+msgstr ""
+
+# It looks like you've been using the plugin for a while now, thanks!
+msgctxt "admin.Common_RateIt"
+msgid "InfoPrefix"
+msgstr ""
+
+# Please, rate it to improve
+msgctxt "admin.Common_RateIt"
+msgid "RateBtn"
+msgstr ""
+
+# Postpone
+msgctxt "admin.Common_RateIt"
+msgid "PostponeBtn"
+msgstr ""
+
+# Accept the End-User License Agreement
+msgctxt "admin.Common_Eula"
+msgid "AcceptBtn"
+msgstr ""
+
+# Please, accept the new %1$sEnd-User License Agreement%2$s. By pressing "%3$s" button you are agreeing with it.
+#. translators: 1,2 - link tags; 3 - button name.
+#, php-format
+msgctxt "admin.Common_Eula"
+msgid "AcceptInfo_%1$s%2$s%3$s"
+msgstr ""
+
+# Functionality is not implemented yet.
+msgctxt "admin.ErrDescr_Common"
+msgid "0x80004001"
+msgstr ""
+
+# Access is denied.
+msgctxt "admin.ErrDescr_Common"
+msgid "0x80070005"
+msgstr ""
+
+# Result code 0x%08X.
+#. translators: 1 - error code.
+#, php-format
+msgctxt "admin.ErrDescr_Common"
+msgid "Def_%08X"
+msgstr ""
+
+# Add
+msgctxt "admin.Common_ItemsList"
+msgid "AddItemBtn"
+msgstr ""
+
+# Delete all
+msgctxt "admin.Common_ItemsList"
+msgid "DelAllItemsBtn"
+msgstr ""
+
+# No items
+msgctxt "admin.Common_ItemsList"
+msgid "NoItemsInfo"
+msgstr ""
+
+msgctxt "admin.Widget"
+msgid "TitleLabel"
+msgstr ""
+
+msgctxt "admin.Widget"
+msgid "TitleDef"
+msgstr ""
+
+msgctxt "admin.Widget"
+msgid "MaxItemsLabel"
+msgstr ""
+
+msgctxt "admin.Widget"
+msgid "AutoUpdateIntervalsLabel"
+msgstr ""
+
+msgctxt "admin.Widget"
+msgid "FontScaleLabel"
+msgstr ""
+
+msgctxt "admin.Widget"
+msgid "DataProviderLabel"
+msgstr ""
+
+msgctxt "admin.Widget"
+msgid "CoinsLinksTplLabel"
+msgstr ""
+
+msgctxt "admin.Widget"
+msgid "ShowCoinsLinksChk"
+msgstr ""

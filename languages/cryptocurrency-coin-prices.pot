@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR MyBitcoin
+# This file is distributed under the same license as the cryptocurrency-coin-prices package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: cryptocurrency-coin-prices 1.0.1\n"
+"Report-Msgid-Bugs-To: support@s-sols.com\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Crypto Coin Market Prices
+msgid "Crypto Coin Market Prices"
+msgstr ""
+
+# Easy to use option for setting up a bitcoin and altcoin exchange rate.
+msgid "Easy to use option for setting up a bitcoin and altcoin exchange rate."
+msgstr ""
+
+# https://www.mybitcoin.com
+msgid "https://www.mybitcoin.com"
+msgstr ""
+
+# MyBitcoin
+msgid "MyBitcoin"
+msgstr ""
+
+# http://wordpress.org/plugins/cryptocurrency-coin-prices
+msgid "http://wordpress.org/plugins/cryptocurrency-coin-prices"
+msgstr ""

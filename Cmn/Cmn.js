@@ -1,0 +1,1 @@
+var cryptocurrency_prices={};
